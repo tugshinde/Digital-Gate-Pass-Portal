@@ -381,6 +381,3 @@ For issues or questions, please create an issue in the repository.
 
 ---
 
-**Happy Learning! 🎓**
-
-This project is beginner-friendly and designed for CDAC viva presentations. All code is well-commented and easy to understand.
